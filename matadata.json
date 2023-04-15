@@ -1,0 +1,16 @@
+{
+   "name": "ParvatR",
+   "symbol": "PRS",
+   "description": "This is my first NFT",
+   "image": "https://portfolio-parvat.web.app/image/Avatar.png",
+   "attributes": [
+      {
+         "trait_type": "Color",
+         "value": "Red"
+      },
+      {
+         "trait_type": "Size",
+         "value": "Small"
+      }
+   ]
+}
